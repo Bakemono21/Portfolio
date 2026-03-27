@@ -1,3 +1,3 @@
 # Portfolio
 
-Link: [luzanojustine.vercel.app](https://luzanojustine.vercel.app)
+Link: [luzanoportfolio.vercel.app/](https://luzanoportfolio.vercel.app/)
